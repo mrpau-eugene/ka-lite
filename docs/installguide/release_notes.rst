@@ -518,7 +518,7 @@ http://blog.daniel-watkins.co.uk/2013/02/removing-pyc-files-coda.html
     #!/bin/bash
     find $(git rev-parse --show-cdup) -name "*.pyc" -delete
 
-For the normal user, reset assured that the upgrade notes contain more
+For the normal user, rest assured that the upgrade notes contain more
 info.
 
 
