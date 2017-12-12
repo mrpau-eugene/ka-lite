@@ -29,3 +29,4 @@ youtube-dl==2015.11.24
 
 django-tastypie-legacy
 requests==2.11.1
+me==1.2
